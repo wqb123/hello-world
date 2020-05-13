@@ -1,2 +1,3 @@
 # hello-world
-learn for people
+learn for myself
+you should learn hard to have a better tomerrow
